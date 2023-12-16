@@ -51,12 +51,6 @@ pip install pygame
 - Press 'F2' for commands (Note: There is a bug preventing the display of commands).
 - Press 'F3' to quit the game.
 
-## Screenshots
-
-![alt text](https://github.com/HerouardMilo/Bomber-Man---ISN-2020/menu.png
-![alt text](https://github.com/HerouardMilo/Bomber-Man---ISN-2020/controls.png
-![alt text](https://github.com/HerouardMilo/Bomber-Man---ISN-2020/In_game.png
-
 ## Credits
 
 This BomberMan game was developed using Python and Pygame by Hérouard Milo and Castanié Valentin.
